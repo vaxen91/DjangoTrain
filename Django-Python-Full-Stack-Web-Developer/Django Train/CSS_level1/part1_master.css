@@ -1,0 +1,22 @@
+body{
+  background: url(http://www.altrementiblog.it/wp-content/uploads/2017/02/Vaporwave.jpg);
+
+}
+
+div {
+  background-color: white;
+  border-color: blue;
+  border-width: 10px;
+  border-style: dotted;
+}
+
+p{
+  font-size: large;
+  font-style: oblique;
+  color : black;
+}
+
+span {
+  background-color: red;
+  color: black;
+}
