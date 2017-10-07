@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    font-family: 'Indie Flower';
+    font-size: 30px;
+    text-align: center;
+}
+
+td{
+  height: 200px;
+  padding: 100px;
+  border: 6px solid white;
+}
+
+.art{
+  margin: auto;
+}
+#one {
+  background-color: #05668D;
+}
+
+#two{
+  background-color: #028090;
+}
+
+#three{
+  background-color: #00A896;
+}
+
+#four{
+  background-color: #02C39A;
+}
+
+#five{
+  background-color: #F0F3BD;
+}
